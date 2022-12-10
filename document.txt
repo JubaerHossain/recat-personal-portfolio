@@ -1,0 +1,15 @@
+this is a React - Personal Portfolio
+
+Installation :
+               1. for local development 
+                  1. npm install or yarn install
+                  2. npm start or yarn start
+                  3. see the the result with default browser
+               2. for aws or any linux server
+                  1. npm install or yarn install
+                  2. npm run build or yarn build
+                  3. then install pm2 'sudo npm install -g pm2'
+                  4. then set up your ngnx server 
+                  5. then go to project folder then 'pm2 start ecosystem.config.js'
+                  6. then you can see your project running or not by  'pm2 list'
+                  7. then hit you domain
