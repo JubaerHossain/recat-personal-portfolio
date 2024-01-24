@@ -25,7 +25,7 @@ const Footer = () => {
             Jubaer Hossain
           </div>
           <p className='text-paragraph opacity-80 text-[15px]'>
-            &copy; 202# Jubaer Hossain. All rights reserved.
+            &copy; 2022 Jubaer Hossain. All rights reserved.
           </p>
         </div>
       </div>
