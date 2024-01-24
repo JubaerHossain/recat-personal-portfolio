@@ -7,6 +7,7 @@ import Brands from './components/Brands';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Skills from './components/Skills';
+import GoogleAdd from './components/GoogleAdd';
 import Services from './components/Services';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -18,11 +19,16 @@ const App = () => {
     <div className='bg-white relative'>
       <Header />
       <Hero />
+      <GoogleAdd />
       <Brands />
+      <GoogleAdd />
       <About />
       <Skills />
+      <GoogleAdd />
       <Portfolio />
+      <GoogleAdd />
       <Services />
+      <GoogleAdd />
       <Testimonials />
       <Contact />
       <Footer />
