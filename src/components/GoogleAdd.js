@@ -14,12 +14,6 @@ const GoogleAdd = () => {
   }, []);
 
   return (
-    <section className='bg-tertiary py-12'>
-      <div className='container mx-auto'>
-        <div className='grid grid-cols-8 md:grid-flow-col'>
-          {/* Other columns */}
-          <div className='col-span-8 md:col-span-4'>
-            {/* Your Google AdSense code goes here */}
             <ins
               className='adsbygoogle'
               style={{ display: 'block' }}
@@ -28,11 +22,6 @@ const GoogleAdd = () => {
               data-ad-format='auto'
               data-full-width-responsive='true'
             ></ins>
-          </div>
-          {/* Other columns */}
-        </div>
-      </div>
-    </section>
   );
 };
 
