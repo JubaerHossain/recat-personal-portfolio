@@ -22,10 +22,10 @@ const Footer = () => {
             })}
           </div>
           <div>
-            <img src={Logo} alt='' />
+            Jubaer Hossain
           </div>
           <p className='text-paragraph opacity-80 text-[15px]'>
-            &copy; 2022 Cristian Mihai. All rights reserved.
+            &copy; 202# Jubaer Hossain. All rights reserved.
           </p>
         </div>
       </div>
