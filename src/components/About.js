@@ -1,6 +1,6 @@
 import React from 'react';
 
-// import img
+// Import image
 import Image from '../assets/img/about.webp';
 
 const About = () => {
@@ -19,21 +19,15 @@ const About = () => {
                 Jubaer Hossain
               </h2>
               <p className='mb-4 text-accent'>
-                Freelance Frontend Web Developer
+                Passionate Full-Stack Alchemist Crafting Digital Dreams
               </p>
               <hr className='mb-8 opacity-5' />
               <p className='mb-8'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit tempore
-                earum dolorum quo consequatur rem nihil hic ducimus rerum soluta
-                neque harum velit molestiae dignissimos distinctio dolorum nisi
-                labore culpa nihil. <br />
-                <br />
-                Qui doloremque quod sit accusantium unde totam inventore
-                cupiditate ratione esse maxime eum recusandae ducimus.
+                Welcome to my vibrant corner of the digital universe! I'm Jubaer Hossain, a freelance Full-Stack Web Developer with a zeal for turning innovative ideas into stunning online realities. From dynamic business websites that captivate audiences to robust e-commerce platforms that drive sales, I specialize in harnessing the power of Laravel to create seamless, high-performance web solutions. With an unwavering focus on not just flawless functionality but also jaw-dropping aesthetics, I ensure your website stands out from the digital crowd. Let's collaborate and transform your vision into a dazzling, high-performance masterpiece!
               </p>
             </div>
             <button className='btn btn-md bg-accent hover:bg-secondary-hover transition-all'>
-              Contact me
+              Let's Create Something Amazing!
             </button>
           </div>
         </div>
