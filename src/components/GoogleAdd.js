@@ -1,6 +1,8 @@
 import React, { useEffect } from "react";
 
 const GoogleAdd = () => {
+
+  return ;
   useEffect(() => {
     // If you have script tags, append them to the head of the document
     const script = document.createElement("script");
